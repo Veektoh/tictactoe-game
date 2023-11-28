@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Veektoh/tictactoe-game/static/css/main.d81823a6.chunk.css",
+    "main.js": "/Veektoh/tictactoe-game/static/js/main.9646a212.chunk.js",
+    "main.js.map": "/Veektoh/tictactoe-game/static/js/main.9646a212.chunk.js.map",
+    "runtime-main.js": "/Veektoh/tictactoe-game/static/js/runtime-main.a7873843.js",
+    "runtime-main.js.map": "/Veektoh/tictactoe-game/static/js/runtime-main.a7873843.js.map",
+    "static/js/2.d30c3f3c.chunk.js": "/Veektoh/tictactoe-game/static/js/2.d30c3f3c.chunk.js",
+    "static/js/2.d30c3f3c.chunk.js.map": "/Veektoh/tictactoe-game/static/js/2.d30c3f3c.chunk.js.map",
+    "static/js/3.17057f1f.chunk.js": "/Veektoh/tictactoe-game/static/js/3.17057f1f.chunk.js",
+    "static/js/3.17057f1f.chunk.js.map": "/Veektoh/tictactoe-game/static/js/3.17057f1f.chunk.js.map",
+    "index.html": "/Veektoh/tictactoe-game/index.html",
+    "precache-manifest.49be65f3d29d159313e41032f889e9b0.js": "/Veektoh/tictactoe-game/precache-manifest.49be65f3d29d159313e41032f889e9b0.js",
+    "service-worker.js": "/Veektoh/tictactoe-game/service-worker.js",
+    "static/css/main.d81823a6.chunk.css.map": "/Veektoh/tictactoe-game/static/css/main.d81823a6.chunk.css.map",
+    "static/js/2.d30c3f3c.chunk.js.LICENSE.txt": "/Veektoh/tictactoe-game/static/js/2.d30c3f3c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7873843.js",
+    "static/js/2.d30c3f3c.chunk.js",
+    "static/css/main.d81823a6.chunk.css",
+    "static/js/main.9646a212.chunk.js"
+  ]
+}
