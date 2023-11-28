@@ -1,0 +1,8 @@
+.square {
+  height: 8rem;
+  width: 8rem;
+  background-color: rgb(22, 185, 122);
+  font-size: 4rem;
+  padding: 1rem;
+  border: solid 1px black;
+}

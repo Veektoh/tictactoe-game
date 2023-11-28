@@ -1,0 +1,18 @@
+.board {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  border: solid 0.2rem black;
+}
+.board-layout {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+.status {
+  text-align: center;
+  border-radius: 2rem;
+  border: solid 3px black;
+  padding: 2rem;
+  font-size: 2rem;
+  background-color: rgb(22, 185, 122);
+}
