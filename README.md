@@ -1,6 +1,6 @@
 # tictactoe-game
 # React Tic-Tac-Toe Game
-
+DEMO https://veektoh.github.io/tictactoe-game/
 A simple Tic-Tac-Toe game built using React. This project is based on the official React documentation's introductory tutorial.
 
 ## Features:
@@ -10,7 +10,8 @@ A simple Tic-Tac-Toe game built using React. This project is based on the offici
 - Responsive design for a seamless experience on various devices.
 
 ## How to Play:
-
+check out demo here https://veektoh.github.io/tictactoe-game/   
+or 
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
 3. Install dependencies: `npm install`
